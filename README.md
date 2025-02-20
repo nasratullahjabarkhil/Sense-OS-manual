@@ -25,6 +25,6 @@ Future: Our vision for the future of Sense OS and planned improvements.
 Getting Started
 To run Sense OS:
 Clone the repository:
-git clone https://github.com/yourusername/sense-os.git
+git clone https://github.com/nasratullahjabarkhil/Sense-OS-manual.git
 Follow the installation instructions provided in the documentation.
 Enjoy an accessible operating system designed with you in mind!
